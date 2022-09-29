@@ -1,3 +1,6 @@
+/*215890102
+  class bank account with methods to deposit,withdraw,display details 
+and display rate of interest*/
 import java.util.Scanner;
 class account{
 	String name;
